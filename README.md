@@ -3,7 +3,7 @@
 A modern responsive landing page for the MyBike bicycle store, built according to a Figma design. This project demonstrates clean, scalable markup using HTML5, SCSS, and the BEM methodology, with a strong focus on layout accuracy and adaptability.
 
 ## Demo Links
-- [Museum Landing Page Demo](https://vall-re.github.io/MyBike_landing-page/)
+- [MyBike Landing Page Demo](https://vall-re.github.io/MyBike_landing-page/)
 - [GitHub repository](https://github.com/Vall-Re/MyBike_landing-page)
 
 ## Design
